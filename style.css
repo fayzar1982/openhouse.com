@@ -1,0 +1,150 @@
+*{
+margin: 0;  
+padding: 0;
+}
+.header{
+min-height: 100vh;
+width: 100%;
+background-image: url(Home1.jpg);
+background-position: center;
+background-size: cover;
+position: relative;
+}
+nav{
+
+    display: flex;
+    padding: 10% 15%;
+    justify-content:space-between;
+    align-items: center;
+}
+nav h3{color:white;
+    font-size: 18px;
+    text-transform: uppercase;
+
+}
+.nav-menu{
+background-color:gray;
+    flex: 1;
+    text-align: right;
+}
+
+.nav-menu ul li{ 
+    list-style: none;
+    display: inline-block;
+    margin: 0px 12px;
+    position: relative;
+  
+}
+.nav-menu ul li a{
+    text-decoration: none;
+    color: blue;
+    font-size: 14px;
+    text-transform: uppercase;
+        }
+    table{
+      font-family: 'Courier New', Courier, monospace;
+      border-collapse: collapse;
+      position:relative;
+    }
+        table, th, td{
+        border: none;
+        background-color: lightblue;
+        
+    }
+
+
+
+P {color: blue;
+  padding: 0;
+background-color: green;
+
+}
+.radio-group{
+  margin: 10px 0 ;
+  padding:35px;
+  background-color:grey;
+}
+form{
+  width: 300px;
+  padding: 10px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+
+}
+
+
+    
+    .radio {
+      margin: 10px 0;
+    padding: 0;}
+    form{
+        width: 300px;
+        padding: 10px;
+        margin: 5px 0;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+      
+      .radio-group {
+        margin: 10px 0;
+      }
+      
+      .radio-group input {
+        margin-right: 5px;
+      }
+      
+      .button-group {
+        margin: 10px 0;
+      }
+      
+      .submit-button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      .cancel-button {
+        background-color: #f44336;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      .form-input {
+        width: 300px; 
+        padding: 10px; 
+        margin: 10px 0; 
+        border: 1px solid #ccc; 
+      }
+      
+      .radio-group {
+        margin: 10px 0; 
+      }
+      
+      .submit-button {
+        background-color: #4CAF50; 
+        color: white; 
+        padding: 10px 15px; 
+        border: none; 
+        cursor: pointer; 
+      }
+      
+      .cancel-button {
+        background-color: #f44336;
+        color: white; 
+        padding: 10px 15px; 
+        border: none;
+        cursor: pointer; 
+      }
+      .vedio1{
+        position:relative;
+
+
+      }
+     
